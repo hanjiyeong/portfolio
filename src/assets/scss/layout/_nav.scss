@@ -1,0 +1,67 @@
+#nav {
+	position: absolute;
+	top: calc(#{$body-padding} - 2rem);
+	right: calc(#{$body-padding} - 1.25rem);
+	ul {
+		@include init-ul();
+		display: flex;
+	}
+	li {
+		text-align: center;
+	}
+	a {
+		position: relative;
+		display: block;
+		padding: 1rem 1.25rem;
+		color: $color-body;
+		&.router-link-exact-active {
+			color: $color-brand;
+			&::after {
+				content: '';
+				display: block;
+				position: absolute;
+				top: 0.875rem;
+				right: 0.75rem;
+				@include circle(0.25rem);
+				background-color: $color-brand;
+			}
+		}
+	}
+}
+
+
+@media (max-width: $desk-top) {
+
+}
+
+@media (max-width: $tablet) {
+	#nav {
+		position: relative;
+		top: 0;
+		right: unset;
+		ul {
+			justify-content: center;
+		}
+		a {
+			padding: 1.25rem;
+		}
+
+	}
+}
+
+@media (max-width: $mobile-max) {
+	#nav {
+		padding: 0 1rem;
+		ul {
+			flex-wrap: wrap;
+		}
+		li {
+			//flex: 1 1 0;
+			flex-grow: 1;
+		}
+		a {
+			padding: 1.25rem 0;
+			font-size: 0.875rem;
+		}
+	}
+}

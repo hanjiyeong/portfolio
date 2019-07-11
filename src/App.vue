@@ -1,29 +1,17 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <nav id="nav">
+      <ul><!-- 메뉴명을 span으로 한 번 더 감쌀 것 -->
+        <li><router-link to="/">홈</router-link></li>
+        <li><router-link to="/project">프로젝트</router-link></li>
+        <li><router-link to="/timeline">타임라인</router-link></li>
+        <li><router-link to="/about">내소개</router-link></li>
+      </ul>
+    </nav>
     <router-view/>
   </div>
 </template>
 
 <style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-}
+  @import "@/assets/scss/style.scss";
 </style>

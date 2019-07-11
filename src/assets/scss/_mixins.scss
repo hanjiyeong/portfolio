@@ -1,0 +1,44 @@
+// Screen out
+@mixin screen-out() {
+	visibility: hidden;
+	overflow: hidden;
+	position: absolute;
+	left: -9999em;
+	width: 1px;
+	height: 0;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-indent: -9999em;
+	background: none;
+	font-size: 1px;
+	line-height: 1px;
+}
+
+// Clearfix
+@mixin clearfix() {
+	*zoom: 1;
+	&::before, &::after {
+		display: table;
+		content: '';
+	}
+	&::after {
+		clear: both;
+		visibility: hidden;
+		height: 0;
+	}
+}
+
+// Reset Ul List
+@mixin init-ul() {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+// Circle
+@mixin circle($size) {
+	width: $size;
+	height: $size;
+	border-radius: 100%;
+}

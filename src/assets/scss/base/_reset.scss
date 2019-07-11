@@ -1,0 +1,58 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: $font-size-root;
+}
+
+body {
+	color: $color-body;
+	font-family: 'S-CoreDream', Helvetica, Arial, sans-serif;
+	font-size: $font-size-body;
+	font-weight: $normal;
+	line-height: 2;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: none;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+a {
+	color: $color-brand;
+	text-decoration: none;
+}
+
+ol {
+	list-style-position: inside;
+}
+
+button {
+	overflow: visible;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+	&::-moz-focus-inner {
+		padding: 0;
+		border: 0;
+	}
+}
+
+label {
+	cursor: pointer;
+}
+
+caption, legend {
+	@include screen-out();
+}
+
+caption {
+	position: static;
+}
