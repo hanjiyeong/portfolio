@@ -1,5 +1,5 @@
-.DS_Store
 node_modules
+.sass-cache
 /dist
 
 # local env files
@@ -14,8 +14,27 @@ yarn-error.log*
 # Editor directories and files
 .idea
 .vscode
+.ssh
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Packages
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
