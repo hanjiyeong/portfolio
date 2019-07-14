@@ -1,5 +1,7 @@
 # portfolio
 
+https://hanjiyeong.github.io/portfolio/
+
 ## Project setup
 ```
 yarn install
