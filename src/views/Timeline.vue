@@ -7,11 +7,11 @@
         <ul class="project-list">
           <li class="project-item">
             <a href="#">
-
+              <strong class="projject-title"></strong>
             </a>
           </li>
           <li class="project-item">
-            <strong class="projject-title"></strong>
+
           </li>
         </ul>
       </section>
