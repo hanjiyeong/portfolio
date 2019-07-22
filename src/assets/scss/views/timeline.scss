@@ -1,6 +1,7 @@
 #timeline {}
 .timeline-section {
 	display: flex;
+	flex-wrap: wrap;
 	&:not(:first-child) {
 		margin-top: 8rem;
 	}
@@ -23,9 +24,12 @@
 	}
 	.project-title {
 		display: inline-block;
+		margin: rem(3) 0;
 		color: $color-body;
 		font-size: rem(24);
 		font-weight: 500;
+		line-height: 1.32;
+		word-break: keep-all;
 		letter-spacing: -0.02em;
 		background-image: linear-gradient(to right, lighten($color-brand, 25%) 0, transparent 100%);
 		background-position: 0 rem(24);
@@ -36,7 +40,6 @@
 	.tag-list {
 		@include init-ul();
 		display: flex;
-		margin-bottom: rem(2);
 		li {
 			color: $color-gray;
 			font-size: rem(15);
@@ -53,9 +56,19 @@
 	}
 	a.project-item:hover {
 		.project-title {
-			//padding: 0 10% 0 rem(10);
 			background-size: 100% rem(16);
-			//color: #fff;
+		}
+	}
+}
+
+@media (max-width: $desk-top) {
+	.timeline-section {
+		display: block;
+		.section-title {
+			margin-bottom: 1rem;
+		}
+		.project-item {
+			display: block;
 		}
 	}
 }

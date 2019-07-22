@@ -1,5 +1,20 @@
 @media (max-width: $desk-top) {
+	html {
+		font-size: 15px;
+	}
+	.wrapper {
+		&.padding {
+			padding: $body-padding*2 0 $body-padding;
+		}
+	}
 
+	.inner {
+		width: 100%;
+		padding: {
+			left: $inner-padding;
+			right: $inner-padding;
+		}
+	}
 }
 
 @media (max-width: $tablet) {

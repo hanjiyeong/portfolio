@@ -1,1 +1,21 @@
 #about {}
+.about-overview {
+	margin-bottom: 5rem;
+	word-break: keep-all;
+}
+.about-section {
+	display: flex;
+	margin-top: 3rem;
+	.section-title {
+		width: rem(220);
+		margin: 1rem 0;
+		font-size: rem(36);
+		line-height: rem(38);
+		word-break: keep-all;
+		word-wrap: break-word;
+	}
+	.description {
+		flex: 1;
+		padding-left: rem(20);
+	}
+}
