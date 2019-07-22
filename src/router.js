@@ -27,6 +27,12 @@ export default new Router({
       path: '/about',
       name: 'about',
       component: () => import('./views/About.vue')
+    },
+    // Project Links
+    {
+      path: '/project/pusan-national-university-library',
+      name: 'pusan-national-university-library',
+      component: () => import('./views/Project/Pusan-National-University-Library.vue')
     }
   ]
 })

@@ -9,7 +9,7 @@ html {
 
 body {
 	color: $color-body;
-	font-family: 'S-CoreDream', Helvetica, Arial, sans-serif;
+	@include fonts('eng');
 	font-size: $font-size-body;
 	font-weight: $normal;
 	line-height: 2;

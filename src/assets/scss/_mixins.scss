@@ -42,3 +42,12 @@
 	height: $size;
 	border-radius: 100%;
 }
+
+@mixin fonts($lang: 'kor') {
+	@if($lang == 'kor') {
+		font-family: 'S-CoreDream', Helvetica, Arial, sans-serif;
+	}
+	@if($lang == 'eng') {
+	font-family: Cabin, 'S-CoreDream', Helvetica, Arial, sans-serif;
+}
+}

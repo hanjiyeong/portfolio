@@ -1,1 +1,63 @@
 #timeline {}
+.timeline-section {
+	display: flex;
+	&:not(:first-child) {
+		margin-top: 8rem;
+	}
+	.section-title {
+		width: rem(240);
+		margin: rem(24) 0 0;
+		font-size: rem(72);
+		line-height: 1;
+	}
+	.project-list {
+		flex: 1;
+		@include init-ul();
+	}
+	.project-item {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 1.5rem 0;
+		border-bottom: 1px solid rgba($color-light-gray, .25);
+	}
+	.project-title {
+		display: inline-block;
+		color: $color-body;
+		font-size: rem(24);
+		font-weight: 500;
+		letter-spacing: -0.02em;
+		background-image: linear-gradient(to right, lighten($color-brand, 25%) 0, transparent 100%);
+		background-position: 0 rem(24);
+		background-size: 0 rem(16);
+		background-repeat: no-repeat;
+		transition: all .5s cubic-bezier(0.25,0.46,0.45,0.94);
+	}
+	.tag-list {
+		@include init-ul();
+		display: flex;
+		margin-bottom: rem(2);
+		li {
+			color: $color-gray;
+			font-size: rem(15);
+			&:not(:first-child) {
+				margin-left: 1rem;
+			}
+			&::before {
+				content: '#';
+			}
+		}
+	}
+	.project-view {
+		font-size: rem(15);
+	}
+	a.project-item:hover {
+		.project-title {
+			//padding: 0 10% 0 rem(10);
+			background-size: 100% rem(16);
+			//color: #fff;
+		}
+	}
+}
+
+
