@@ -2,6 +2,10 @@
 .about-overview {
 	margin-bottom: 5rem;
 	word-break: keep-all;
+	.featured {
+		font-size: rem(44);
+		font-weight: 500;
+	}
 }
 .about-section {
 	display: flex;
@@ -17,5 +21,8 @@
 	.description {
 		flex: 1;
 		padding-left: rem(20);
+		p {
+			word-break: keep-all;
+		}
 	}
 }

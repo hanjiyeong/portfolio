@@ -3,9 +3,9 @@
 }
 
 .wrapper {
-	height: 100vh;
+	min-height: 100vh;
 	&.padding {
-		padding: $body-padding*2 $body-padding $body-padding;
+		padding: $body-padding*2 $body-padding 10rem;
 	}
 }
 

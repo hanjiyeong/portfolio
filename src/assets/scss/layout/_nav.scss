@@ -1,7 +1,7 @@
 #nav {
 	position: absolute;
-	top: calc(#{$body-padding} - 2rem);
-	right: calc(#{$body-padding} - 1.25rem);
+	top: rem(16);
+	right: rem(12);
 	ul {
 		@include init-ul();
 		display: flex;
