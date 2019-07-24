@@ -1,3 +1,31 @@
-#project {
-	background-color: #eee;
+#project {}
+
+.project-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	.visual-area,
+	.desc-area {
+		width: 50%;
+		min-height: 100vh;
+	}
+	.visual-area {
+		background-color: #ccc;
+	}
+	.desc-area {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.project-desc {
+		width: rem(400);
+	}
+}
+
+.project-controller {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	bottom: 1.5rem;
+	display: flex;
+	justify-content: center;
 }

@@ -1,6 +1,7 @@
 <template>
   <article role="article" class="wrapper padding" id="timeline">
     <h1 class="screen-out">Timeline</h1>
+    <TopNav />
     <div class="inner">
       <!-- 2019 -->
       <section class="timeline-section">
@@ -898,7 +899,14 @@
 </template>
 
 <script>
+//import GoTop from '../components/GoTop'
 
+export default {
+  //name: 'timeline',
+  components: {
+    //GoTop
+  }
+}
 </script>
 
 <style lang="scss" scoped>

@@ -33,6 +33,10 @@ export default new Router({
       path: '/project/pusan-national-university-library',
       name: 'pusan-national-university-library',
       component: () => import('./views/Project/Pusan-National-University-Library.vue')
+    },
+    {
+      path: '/*',
+      redirect: {name: 'home'}
     }
   ]
 })

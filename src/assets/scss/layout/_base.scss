@@ -3,6 +3,7 @@
 }
 
 .wrapper {
+	position: relative;
 	min-height: 100vh;
 	&.padding {
 		padding: $body-padding*2 $body-padding 10rem;
@@ -15,4 +16,19 @@
 		left: auto;
 		right: auto;
 	}
+}
+
+.btn-go-top {
+	position: absolute;
+	right: 2rem;
+	bottom: 2rem;
+}
+
+// page scroll progress bar
+#progress-container-el {
+	top: 0 !important;
+	background-color: transparent !important;
+}
+#progress-el {
+	background-color: $color-brand !important;
 }
