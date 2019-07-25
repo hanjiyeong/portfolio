@@ -12,7 +12,7 @@
   <section class="about-section">
     <h2 class="section-title">UX/UI</h2>
     <div class="description">
-      <p></p>
+      <p>주 업무는 디자인과 퍼블리싱이지만 이런 작업을 할 때도 그 안에서의 기획과 계획이 필요하고 그런 일련의 과정들을 꽤 재미있어하는 편이다. 사용자들이 쉽게 인터페이스에 접근할 수 있는지, 내가 만든 서비스를 사용하면서 좋은 인상과 경험을 가져갈 수 있는지. 하지만 이런 문제는 사실 프로젝트의 전반적인 기획에 참여하는 롤이 아닌 이상 분명 한계가 있는 것 같다. 그리고, 나도 아직까지는 리서치 자료나 수집한 데이터들을 근거로 프로젝트의 방향성을 제시할 만큼 축적된 경험이나 노하우가 부족한 것도 사실이고. 어쨌든 좋은 서비스를 만들겠다는 본연의 목표를 가지고 조금씩 뭐라도 하다 보면 길을 찾을 수 있지 않을까 생각하고 있다.</p>
     </div>
   </section>
   <section class="about-section">
@@ -57,17 +57,6 @@
   </div>
   </article>
 </template>
-
-<script>
-//import GoTop from './../components/GoTop'
-
-export default {
-  name: 'home',
-  components: {
-    //GoTop
-  }
-}
-</script>
 
 <style lang="scss" scoped>
   @import "~@/assets/scss/views/about.scss";

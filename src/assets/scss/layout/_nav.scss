@@ -1,7 +1,7 @@
 #nav {
 	position: absolute;
-	top: rem(16);
-	right: rem(12);
+	top: rem(20);
+	right: rem(30);
 	z-index: 9;
 	ul {
 		@include init-ul();

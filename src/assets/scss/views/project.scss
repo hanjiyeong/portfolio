@@ -1,4 +1,6 @@
-#project {}
+#project {
+	background-color: lighten($color-bg, 1%);
+}
 
 .project-wrapper {
 	display: flex;
@@ -28,4 +30,120 @@
 	bottom: 1.5rem;
 	display: flex;
 	justify-content: center;
+}
+
+
+.project-section-wrap {
+	display: flex;
+	flex-wrap: wrap;
+	.project-section {
+		position: relative;
+		width: 29.333333%;
+		margin: 2%;
+		.project-item {
+			display: block;
+			position: relative;
+			top: 0;
+			left: 0;
+			height: 100%;
+			background-color: $white;
+			transition: all .4s cubic-bezier(0.25,0.46,0.45,0.94);
+		}
+	}
+	.project-thumb {
+		margin: 0;
+		img {
+			width: 100%;
+		}
+	}
+	.project-desc {
+		padding: rem(16) rem(36) rem(32);
+		background-color: $white;
+	}
+	.project-title {
+		margin: 0;
+		color: $color-body;
+		font-size: rem(22);
+		line-height: 1.36;
+		font-weight: 500;
+		letter-spacing: -0.02em;
+		word-break: keep-all;
+	}
+	.tag-list {
+		@include init-ul();
+		margin: rem(24) rem(-6) rem(2);
+		line-height: 1;
+		li {
+			display: inline-block;
+			margin: rem(4) rem(6);
+			color: $color-gray;
+			font-size: rem(14);
+			line-height: 1;
+			letter-spacing: -0.02em;
+			word-break: keep-all;
+			&::before {
+				content: '#';
+			}
+		}
+	}
+	.project-view {
+		display: inline-block;
+		margin-top: rem(18);
+		font-size: rem(14);
+	}
+	.project-link {
+		&::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba($color-brand, .18); //#dee2e6;
+			filter: blur(8px);
+			opacity: 0;
+			visibility: hidden;
+			transition: all .4s cubic-bezier(0.25,0.46,0.45,0.94);
+		}
+		&:hover, &:focus {
+			&::before {
+				top: rem(8);
+				left: rem(8);
+				opacity: 1;
+				visibility: visible;
+			}
+			.project-item {
+				top: rem(-8);
+				left: rem(-8);
+			}
+		}
+	}
+}
+
+
+@media (max-width: 1360px) {
+	.project-section-wrap {
+		//flex-wrap: nowrap;
+		.project-section {
+			width: 46%;
+		}
+	}
+}
+
+@media (max-width: $desk-top) {
+
+}
+
+@media (max-width: $tablet) {
+
+}
+
+@media (max-width: $mobile-max) {
+	.project-section-wrap {
+		//flex-wrap: nowrap;
+		.project-section {
+			width: 100%;
+			margin: 1rem 0;
+		}
+	}
 }

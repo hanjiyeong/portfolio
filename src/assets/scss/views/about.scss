@@ -13,6 +13,7 @@
 	.section-title {
 		width: rem(220);
 		margin: 1rem 0;
+		color: $color-brand;
 		font-size: rem(36);
 		line-height: rem(38);
 		word-break: keep-all;
@@ -23,6 +24,20 @@
 		padding-left: rem(20);
 		p {
 			word-break: keep-all;
+		}
+	}
+}
+
+
+@media (max-width: $desk-top) {
+	.about-section {
+		display: block;
+		.section-title {
+			width: 100%;
+			margin-bottom: 2rem;
+		}
+		.description {
+			padding-left: 0;
 		}
 	}
 }

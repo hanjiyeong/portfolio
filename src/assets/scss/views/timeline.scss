@@ -2,12 +2,16 @@
 .timeline-section {
 	display: flex;
 	flex-wrap: wrap;
+	padding: 1rem 0;
+	overflow: hidden;
 	&:not(:first-child) {
 		margin-top: 8rem;
 	}
 	.section-title {
+		position: relative;
+		z-index: 9;
 		width: rem(240);
-		margin: rem(24) 0 0;
+		margin: rem(20) 0 0;
 		font-size: rem(72);
 		line-height: 1;
 	}
@@ -16,26 +20,39 @@
 		@include init-ul();
 	}
 	.project-item {
+		position: relative;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+		margin-top: -1px;
 		padding: 1.5rem 0;
-		border-bottom: 1px solid rgba($color-light-gray, .25);
+		border-top: 1px solid $color-line;
+		border-bottom: 1px solid $color-line;
+		transition: all .6s cubic-bezier(0.25,0.46,0.45,0.94);
+		&::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 50%;
+			width: 160%;
+			height: 100%;
+			transform: translateX(-50%);
+			background-color: $white;
+			z-index: -1;
+		}
+	}
+	.project-info {
+		padding-right: 1.5rem;
 	}
 	.project-title {
 		display: inline-block;
-		margin: rem(3) 0;
+		margin: rem(5) 0 rem(3);
 		color: $color-body;
 		font-size: rem(24);
 		font-weight: 500;
 		line-height: 1.32;
 		word-break: keep-all;
 		letter-spacing: -0.02em;
-		background-image: linear-gradient(to right, lighten($color-brand, 25%) 0, transparent 100%);
-		background-position: 0 rem(24);
-		background-size: 0 rem(16);
-		background-repeat: no-repeat;
-		transition: all .5s cubic-bezier(0.25,0.46,0.45,0.94);
 	}
 	.tag-list {
 		@include init-ul();
@@ -53,10 +70,36 @@
 	}
 	.project-view {
 		font-size: rem(15);
+		word-break: keep-all;
 	}
-	a.project-item:hover {
-		.project-title {
-			background-size: 100% rem(16);
+	.project-link {
+		position: relative;
+		&::before {
+			content: '';
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			width: 160%;
+			height: calc(100% - 1px);
+			transform: translate(-50%, -50%);
+			border-radius: 100%;
+			box-shadow:
+				0 rem(6) rem(12) rgba($color-brand, .18),
+				0 rem(-6) rem(12) rgba($color-brand, .18);
+			z-index: -1;
+			opacity: 0;
+			visibility: hidden;
+			transition: all .5s cubic-bezier(0.25,0.46,0.45,0.94);
+		}
+		&:hover, &:focus {
+			z-index: 1;
+			&::before {
+				opacity: 1;
+				visibility: visible;
+			}
+			.project-item {
+				margin-left: -0.5rem;
+			}
 		}
 	}
 }

@@ -1,10 +1,19 @@
+@media (max-width: 1440px) {
+	.project-inner {
+		width: 100%;
+		padding: {
+			left: $inner-padding;
+			right: $inner-padding;
+		}
+	}
+}
 @media (max-width: $desk-top) {
 	html {
 		font-size: 15px;
 	}
 	.wrapper {
 		&.padding {
-			padding: $body-padding*2 0 $body-padding;
+			padding: 2rem 0 $body-padding;
 		}
 	}
 
