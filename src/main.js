@@ -3,6 +3,10 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import VueAnalytics from "vue-analytics";
+import VueScrollTo from 'vue-scrollto';
+import TopNavigation from './components/Nav';
+
+Vue.component('TopNav', TopNavigation)
 
 Vue.config.productionTip = false;
 
