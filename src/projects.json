@@ -1,0 +1,57 @@
+{
+  "projectData": [
+    {
+      "id": 1,
+      "year": 2019,
+      "title": "부산은행 모바일뱅킹 UX/UI",
+      "tags": [
+        "UX/UI",
+        "디자인가이드",
+        "운영디자인"
+      ],
+      "url": {
+        "hasUrl": true,
+        "link": true,
+        "url": "http://iphak.kumoh.ac.kr"
+      },
+      "thumbnail": {
+        "hasImg": true,
+        "imgSrc": "~@/assets/images/item-36.png"
+      },
+      "detail": {
+        "show": false,
+        "description": "내용"
+      },
+      "show": {
+        "timeline": true,
+        "project": true
+      }
+    },
+    {
+      "id": 2,
+      "year": 2018,
+      "title": "경남정보대학교 컨텐츠 퍼블리싱",
+      "tags": [
+        "컨텐츠 퍼블리싱",
+        "반응형"
+      ],
+      "url": {
+        "hasUrl": false,
+        "link": false,
+        "url": ""
+      },
+      "thumbnail": {
+        "hasImg": false,
+      },
+      "detail": {
+        "show": true,
+        "description": "내용"
+      },
+      "show": {
+        "timeline": true,
+        "project": false
+      }
+    }
+  ]
+}
+
