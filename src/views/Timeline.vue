@@ -30,18 +30,16 @@
             </div>
           </li>
           <li class="project-link">
-            <div class="project-item">
-              <a href="http://www.kit.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
-                <div class="project-info">
-                  <strong class="project-title">경남정보대학교 컨텐츠 퍼블리싱</strong>
-                  <ul class="tag-list">
-                    <li>컨텐츠 퍼블리싱</li>
-                    <li>반응형</li>
-                  </ul>
-                </div>
-                <span class="project-view">사이트보기</span>
-              </a>
-            </div>
+            <a href="http://www.kit.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">경남정보대학교 컨텐츠 퍼블리싱</strong>
+                <ul class="tag-list">
+                  <li>컨텐츠 퍼블리싱</li>
+                  <li>반응형</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
           </li>
           <li class="project-link">
             <a href="http://iphak.kumoh.ac.kr" target="_blank" title="새 창 열림" class="project-item">
