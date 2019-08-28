@@ -10,6 +10,16 @@
           <li>
             <div class="project-item">
               <div class="project-info">
+                <strong class="project-title">KGC인삼공사 케어나우</strong>
+                <ul class="tag-list">
+                  <li>퍼블리싱</li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="project-item">
+              <div class="project-info">
                 <strong class="project-title">부산은행 모바일뱅킹 UX/UI</strong>
                 <ul class="tag-list">
                   <li>UX/UI</li>
@@ -19,15 +29,17 @@
               </div>
             </div>
           </li>
-          <li>
+          <li class="project-link">
             <div class="project-item">
-              <div class="project-info">
-                <strong class="project-title">경남정보대학교 컨텐츠 퍼블리싱</strong>
-                <ul class="tag-list">
-                  <li>컨텐츠 퍼블리싱</li>
-                  <li>반응형</li>
-                </ul>
-              </div>
+              <a href="http://www.kit.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+                <div class="project-info">
+                  <strong class="project-title">경남정보대학교 컨텐츠 퍼블리싱</strong>
+                  <ul class="tag-list">
+                    <li>컨텐츠 퍼블리싱</li>
+                    <li>반응형</li>
+                  </ul>
+                </div>
+              </a>
             </div>
           </li>
           <li class="project-link">
