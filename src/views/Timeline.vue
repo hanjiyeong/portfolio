@@ -39,6 +39,7 @@
                     <li>반응형</li>
                   </ul>
                 </div>
+                <span class="project-view">사이트보기</span>
               </a>
             </div>
           </li>
