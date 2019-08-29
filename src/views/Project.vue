@@ -259,7 +259,7 @@
           </a>
         </section>
         <section class="project-section project-link">
-          <a href="http://core-portal.org" target="_blank" title="새 창 열림" class="project-item">
+          <a href="http://corep.vaimedia.kr" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
               <img src="http://jwork.me/images/portfolio/item-31.png" alt="부경대학교 대학인문역량강화사업">
             </figure>
