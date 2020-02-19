@@ -7,16 +7,16 @@
       <section class="timeline-section">
         <h2 class="section-title">2019</h2>
         <ul class="project-list">
-          <!--<li>
+          <li>
             <div class="project-item">
               <div class="project-info">
-                <strong class="project-title">KGC인삼공사 케어나우</strong>
+                <strong class="project-title">KGC인삼공사 케어나우3.0 앱/모바일웹</strong>
                 <ul class="tag-list">
                   <li>퍼블리싱</li>
                 </ul>
               </div>
             </div>
-          </li>-->
+          </li>
           <li>
             <div class="project-item">
               <div class="project-info">
