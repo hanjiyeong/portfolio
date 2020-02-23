@@ -10,9 +10,9 @@
           <li>
             <div class="project-item">
               <div class="project-info">
-                <strong class="project-title">KGC인삼공사 케어나우3.0 앱/모바일웹</strong>
+                <strong class="project-title">KGC인삼공사 멤버십통합 &amp; 케어나우3.0</strong>
                 <ul class="tag-list">
-                  <li>퍼블리싱</li>
+                  <li>앱/모바일웹/PC웹 퍼블리싱</li>
                 </ul>
               </div>
             </div>
