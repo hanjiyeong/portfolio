@@ -3,9 +3,9 @@
     <h1 class="screen-out">Timeline</h1>
     <TopNav />
     <div class="inner">
-      <!-- 2019 -->
+      <!-- 2020 -->
       <section class="timeline-section">
-        <h2 class="section-title">2019</h2>
+        <h2 class="section-title">2020</h2>
         <ul class="project-list">
           <li>
             <div class="project-item">
@@ -17,6 +17,33 @@
               </div>
             </div>
           </li>
+          <li>
+            <div class="project-item">
+              <div class="project-info">
+                <strong class="project-title">동명대학교 산학협력단 기술경영센터</strong>
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="project-item">
+              <div class="project-info">
+                <strong class="project-title">부산대학교 Alumni Network</strong>
+                <ul class="tag-list">
+                  <li>메인/서브 디자인</li>
+                </ul>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </section><!-- //2020 -->
+      <!-- 2019 -->
+      <section class="timeline-section">
+        <h2 class="section-title">2019</h2>
+        <ul class="project-list">
           <li>
             <div class="project-item">
               <div class="project-info">
@@ -32,9 +59,9 @@
           <li class="project-link">
             <a href="http://www.kit.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">경남정보대학교 컨텐츠 퍼블리싱</strong>
+                <strong class="project-title">경남정보대학교 콘텐츠 퍼블리싱</strong>
                 <ul class="tag-list">
-                  <li>컨텐츠 퍼블리싱</li>
+                  <li>콘텐츠 퍼블리싱</li>
                   <li>반응형</li>
                 </ul>
               </div>
@@ -44,10 +71,44 @@
           <li class="project-link">
             <a href="http://iphak.kumoh.ac.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">금오공과대학 입학 컨텐츠 퍼블리싱</strong>
+                <strong class="project-title">금오공과대학 입학 콘텐츠 퍼블리싱</strong>
                 <ul class="tag-list">
-                  <li>컨텐츠 퍼블리싱</li>
+                  <li>콘텐츠 퍼블리싱</li>
                   <li>반응형</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
+          </li>
+          <li class="project-link">
+            <a href="http://uispc.org/" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">대학혁신지원사업</strong>
+                <ul class="tag-list">
+                  <li>메인/서브 디자인</li>
+                  <li>메인/레이아웃/반응형 퍼블리싱</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
+          </li>
+          <li class="project-link">
+            <a href="http://renovation.pusan.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">부산대학교 국립대학육성사업</strong>
+                <ul class="tag-list">
+                  <li>메인 디자인</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
+          </li>
+          <li class="project-link">
+            <a href="https://mirae.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">부경대학교 미래교육혁신본부</strong>
+                <ul class="tag-list">
+                  <li>메인 디자인</li>
                 </ul>
               </div>
               <span class="project-view">사이트보기</span>
@@ -60,16 +121,6 @@
                 <ul class="tag-list">
                   <li>전체 디자인</li>
                   <li>전체 퍼블리싱</li>
-                </ul>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="project-item">
-              <div class="project-info">
-                <strong class="project-title">부경대학교 해양인문학연구소 해양도시 인문지도</strong>
-                <ul class="tag-list">
-                  <li>메인/서브 디자인</li>
                 </ul>
               </div>
             </div>
@@ -119,7 +170,7 @@
           <li class="project-link">
             <a href="http://www.ricewinekorea.co.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">부산합동양조 생탁 시안</strong>
+                <strong class="project-title">부산합동양조 생탁</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -128,9 +179,9 @@
             </a>
           </li>
           <li class="project-link">
-            <a href="http://renovation.pusan.ac.kr" target="_blank" title="새 창 열림" class="project-item">
+            <a href="http://marinemap.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">부산대학교 국립대학육성사업 시안</strong>
+                <strong class="project-title">부경대학교 해양인문학연구소 해양도시 인문지도</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -147,7 +198,7 @@
           <li class="project-link">
             <a href="http://heritage-night.bsseogu.go.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">피란수도 부산야행 2017 디자인</strong>
+                <strong class="project-title">피란수도 부산야행 2017</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                   <li>컨텐츠 디자인</li>
@@ -185,7 +236,7 @@
           <li class="project-link">
             <a href="http://wfu.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">부경대 세계수산대학원 시안</strong>
+                <strong class="project-title">부경대 세계수산대학원</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -196,7 +247,7 @@
           <li class="project-link">
             <a href="http://marinearchive.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">부경대학교 한국해양수산 아카이브 시안</strong>
+                <strong class="project-title">부경대학교 한국해양수산 아카이브</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -207,7 +258,7 @@
           <li class="project-link">
             <a href="http://iga.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">부경대 글로벌 지역학 연구소 시안</strong>
+                <strong class="project-title">부경대 글로벌 지역학 연구소</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -218,7 +269,7 @@
           <li>
             <div class="project-item">
               <div class="project-info">
-                <strong class="project-title">대우감사정보시스템 ERP 디자인</strong>
+                <strong class="project-title">대우 DACS 업무진단시스템</strong>
                 <ul class="tag-list">
                   <li>ERP 디자인</li>
                 </ul>
@@ -267,6 +318,17 @@
               <span class="project-view">사이트보기</span>
             </a>
           </li>
+          <li class="project-link">
+            <a href="http://core.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">부경대학교 CORE사업단</strong>
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
+          </li>
           <li>
             <div class="project-item">
               <div class="project-info">
@@ -280,28 +342,6 @@
             </div>
           </li>
           <li class="project-link">
-            <a href="http://core-portal.org" target="_blank" title="새 창 열림" class="project-item">
-              <div class="project-info">
-                <strong class="project-title">부경대학교 대학인문역량강화사업</strong>
-                <ul class="tag-list">
-                  <li>전체 디자인</li>
-                </ul>
-              </div>
-              <span class="project-view">사이트보기</span>
-            </a>
-          </li>
-          <li class="project-link">
-            <a href="http://core.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
-              <div class="project-info">
-                <strong class="project-title">부경대학교 CORE사업단</strong>
-                <ul class="tag-list">
-                  <li>전체 디자인</li>
-                </ul>
-              </div>
-              <span class="project-view">사이트보기</span>
-            </a>
-          </li>
-          <li class="project-link">
             <a href="http://pnurp.or.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
                 <strong class="project-title">부산대학교 대학산학연 연구단지 조성사업단</strong>
@@ -313,9 +353,9 @@
             </a>
           </li>
           <li class="project-link">
-            <a href="http://kingfill.com" target="_blank" title="새 창 열림" class="project-item">
+            <a href="http://core-portal.org" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">Kingfill®-7</strong>
+                <strong class="project-title">부경대학교 대학인문역량강화사업</strong>
                 <ul class="tag-list">
                   <li>전체 디자인</li>
                 </ul>
@@ -333,6 +373,17 @@
                 </ul>
               </div>
             </div>
+          </li>
+          <li class="project-link">
+            <a href="http://kingfill.com" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">Kingfill®-7</strong>
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
           </li>
           <li class="project-link">
             <a href="http://www.pknua.or.kr/" target="_blank" title="새 창 열림" class="project-item">
@@ -356,6 +407,18 @@
             </div>
           </li>
           <li class="project-link">
+            <a href="http://www.kuklim.kr/" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">국림피엔텍</strong>
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
+          </li>
+          <li class="project-link">
             <a href="http://www.daonhospital.com" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
                 <strong class="project-title">다온요양병원</strong>
@@ -372,8 +435,8 @@
       <section class="timeline-section">
         <h2 class="section-title">2015</h2>
         <ul class="project-list">
-          <li class="project-link">
-            <a href="http://www.bsgangseo.go.kr/main.do" target="_blank" title="새 창 열림" class="project-item">
+          <li>
+            <div class="project-item">
               <div class="project-info">
                 <strong class="project-title">부산 강서구청 퍼블리싱</strong>
                 <ul class="tag-list">
@@ -382,8 +445,7 @@
                   <li>웹접근성 마크</li>
                 </ul>
               </div>
-              <span class="project-view">사이트보기</span>
-            </a>
+            </div>
           </li>
           <li class="project-link">
             <a href="https://www.inje.ac.kr/kor/" target="_blank" title="새 창 열림" class="project-item">
@@ -397,6 +459,17 @@
               </div>
               <span class="project-view">사이트보기</span>
             </a>
+          </li>
+          <li>
+            <div class="project-item">
+              <div class="project-info">
+                <strong class="project-title">영상물등급관리위원회</strong>
+                <ul class="tag-list">
+                  <li>전체 퍼블리싱</li>
+                  <li>반응형</li>
+                </ul>
+              </div>
+            </div>
           </li>
           <li class="project-link">
             <a href="http://idssw.co.kr" target="_blank" title="새 창 열림" class="project-item">
@@ -449,7 +522,7 @@
           <li class="project-link">
             <a href="http://applemuseum.co.kr" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">애플컴퓨터 박물관 시안</strong>
+                <strong class="project-title">애플컴퓨터 박물관</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -458,21 +531,9 @@
             </a>
           </li>
           <li class="project-link">
-            <a href="http://haeyang.vaimedia.kr/kor" target="_blank" title="새 창 열림" class="project-item">
-              <div class="project-info">
-                <strong class="project-title">(주)해양수중공사</strong>
-                <ul class="tag-list">
-                  <li>전체 디자인</li>
-                  <li>전체 퍼블리싱</li>
-                </ul>
-              </div>
-              <span class="project-view">사이트보기</span>
-            </a>
-          </li>
-          <li class="project-link">
             <a href="http://www.evergreenkor.com" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">사단법인 늘푸른 장학회 시안</strong>
+                <strong class="project-title">사단법인 늘푸른 장학회</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -500,7 +561,7 @@
           <li>
             <div class="project-item">
               <div class="project-info">
-                <strong class="project-title">부산양산대 병원 제안 시안</strong>
+                <strong class="project-title">양산부산대학교병원 제안 시안</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -511,6 +572,18 @@
             <a href="http://globalybm.com" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
                 <strong class="project-title">Daewoo Global YBM</strong>
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+              </div>
+              <span class="project-view">사이트보기</span>
+            </a>
+          </li>
+          <li class="project-link">
+            <a href="http://haeyang.vaimedia.kr/kor" target="_blank" title="새 창 열림" class="project-item">
+              <div class="project-info">
+                <strong class="project-title">(주)해양수중공사</strong>
                 <ul class="tag-list">
                   <li>전체 디자인</li>
                   <li>전체 퍼블리싱</li>
@@ -534,7 +607,7 @@
           <li class="project-link">
             <a href="http://metal.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
               <div class="project-info">
-                <strong class="project-title">부경대학교 금속공학과 시안</strong>
+                <strong class="project-title">부경대학교 금속공학과</strong>
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
                 </ul>
@@ -604,16 +677,15 @@
               </div>
             </div>
           </li>
-          <li class="project-link">
-            <a href="http://www.cubeint.co.kr" target="_blank" title="새 창 열림" class="project-item">
+          <li>
+            <div class="project-item">
               <div class="project-info">
                 <strong class="project-title">큐브인터랙티브</strong>
                 <ul class="tag-list">
                   <li>전체 퍼블리싱</li>
                 </ul>
               </div>
-              <span class="project-view">사이트보기</span>
-            </a>
+            </div>
           </li>
         </ul>
       </section><!-- //2013 -->
