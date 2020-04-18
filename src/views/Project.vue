@@ -51,6 +51,40 @@
           </div>
         </section>
         <section class="project-section project-link">
+          <a href="http://uispc.org/" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-49.png" alt="대학혁신지원사업">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">대학혁신지원사업</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>메인/서브 디자인</li>
+                  <li>메인/레이아웃 퍼블리싱</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section project-link">
+          <a href="http://heritage-night.bsseogu.go.kr" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-36.png" alt="피란수도 부산야행">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">피란수도 부산야행</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>메인/서브 디자인</li>
+                  <li>컨텐츠 디자인</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section project-link">
           <a href="http://www.kit.ac.kr/main" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
               <img src="http://jwork.me/images/portfolio/item-55.png" alt="경남정보대학교">
@@ -65,6 +99,77 @@
               </div>
             </div>
           </a>
+        </section>
+        <section class="project-section project-link">
+          <a href="https://lib.pusan.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-53.png" alt="부산대학교 도서관">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부산대학교 도서관</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>워드프레스</li>
+                  <li>검색 UX/UI</li>
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section project-link">
+          <a href="https://libweb.pknu.ac.kr/m/" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-38.png" alt="부경대학교 도서관 (모바일)">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부경대학교 도서관 (모바일)</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>워드프레스</li>
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section">
+          <div class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-44.png" alt="부산항만공사 분석시스템">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부산항만공사 분석시스템</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
+                  <li>UI 컨셉 및 기획</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="project-section">
+          <div class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-28.png" alt="부산대학교 도서관(영문)">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부산대학교 도서관(영문)</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>워드프레스</li>
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </section>
         <section class="project-section project-link">
           <a href="http://iphak.kumoh.ac.kr/ipsi/" target="_blank" title="새 창 열림" class="project-item">
@@ -83,16 +188,84 @@
           </a>
         </section>
         <section class="project-section project-link">
-          <a href="http://uispc.org/" target="_blank" title="새 창 열림" class="project-item">
+          <a href="https://libweb.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-49.png" alt="대학혁신지원사업">
+              <img src="http://jwork.me/images/portfolio/item-29.png" alt="부경대학교 도서관">
             </figure>
             <div class="project-desc">
-              <h2 class="project-title">대학혁신지원사업</h2>
+              <h2 class="project-title">부경대학교 도서관</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>워드프레스</li>
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section project-link">
+          <a href="http://wfu.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-35.png" alt="부경대 세계수산대학원 시안">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부경대 세계수산대학원 시안</h2>
               <div class="project-info">
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
-                  <li>메인/레이아웃 퍼블리싱</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section">
+          <div class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-01.png" alt="부산 강서구청 퍼블리싱">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부산 강서구청 퍼블리싱</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>전체 퍼블리싱</li>
+                  <li>반응형</li>
+                  <li>웹접근성 마크</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="project-section project-link">
+          <a href="https://www.inje.ac.kr/kor/" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-02.png" alt="">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">인제대학교 퍼블리싱</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>부분 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                  <li>반응형</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section project-link">
+          <a href="http://core.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-27.png" alt="부경대학교 CORE사업단">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부경대학교 CORE사업단</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>전체 디자인</li>
                 </ul>
                 <span class="project-view">사이트보기</span>
               </div>
@@ -149,6 +322,22 @@
           </a>
         </section>
         <section class="project-section project-link">
+          <a href="http://www.ricewinekorea.co.kr" target="_blank" title="새 창 열림" class="project-item">
+            <figure class="project-thumb">
+              <img src="http://jwork.me/images/portfolio/item-43.png" alt="부산합동양조 생탁 시안">
+            </figure>
+            <div class="project-desc">
+              <h2 class="project-title">부산합동양조 생탁 시안</h2>
+              <div class="project-info">
+                <ul class="tag-list">
+                  <li>메인/서브 디자인</li>
+                </ul>
+                <span class="project-view">사이트보기</span>
+              </div>
+            </div>
+          </a>
+        </section>
+        <section class="project-section project-link">
           <a href="http://marinemap.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
               <img src="http://jwork.me/images/portfolio/item-58.png" alt="부경대학교 해양인문학연구소 해양도시 인문지도">
@@ -174,127 +363,6 @@
               <div class="project-info">
                 <ul class="tag-list">
                   <li>메인/서브 디자인</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
-          <a href="https://lib.pusan.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-53.png" alt="부산대학교 도서관">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부산대학교 도서관</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>워드프레스</li>
-                  <li>검색 UX/UI</li>
-                  <li>전체 디자인</li>
-                  <li>전체 퍼블리싱</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
-          <a href="http://heritage-night.bsseogu.go.kr" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-36.png" alt="피란수도 부산야행">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">피란수도 부산야행</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>메인/서브 디자인</li>
-                  <li>컨텐츠 디자인</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section">
-          <div class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-28.png" alt="부산대학교 도서관(영문)">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부산대학교 도서관(영문)</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>워드프레스</li>
-                  <li>전체 디자인</li>
-                  <li>전체 퍼블리싱</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section class="project-section project-link">
-          <a href="http://wfu.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-35.png" alt="부경대 세계수산대학원 시안">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부경대 세계수산대학원 시안</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>메인/서브 디자인</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
-          <a href="https://libweb.pknu.ac.kr/m/" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-38.png" alt="부경대학교 도서관 (모바일)">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부경대학교 도서관 (모바일)</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>워드프레스</li>
-                  <li>전체 디자인</li>
-                  <li>전체 퍼블리싱</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
-          <a href="http://www.ricewinekorea.co.kr" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-43.png" alt="부산합동양조 생탁 시안">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부산합동양조 생탁 시안</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>메인/서브 디자인</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
-          <a href="https://bigdata.bpa-net.com" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-44.png" alt="부산항만공사 분석시스템">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부산항만공사 분석시스템</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>전체 디자인</li>
-                  <li>UI 컨셉 및 기획</li>
-                  <li>전체 퍼블리싱</li>
                 </ul>
                 <span class="project-view">사이트보기</span>
               </div>
@@ -334,24 +402,6 @@
               </div>
             </div>
           </div>
-        </section>
-        <section class="project-section project-link">
-          <a href="https://libweb.pknu.ac.kr" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-29.png" alt="부경대학교 도서관">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부경대학교 도서관</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>워드프레스</li>
-                  <li>전체 디자인</li>
-                  <li>전체 퍼블리싱</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
         </section>
         <section class="project-section">
           <div class="project-item">
@@ -451,22 +501,6 @@
           </a>
         </section>
         <section class="project-section project-link">
-          <a href="http://core.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-27.png" alt="부경대학교 CORE사업단">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부경대학교 CORE사업단</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>전체 디자인</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
           <a href="http://kingfill.com" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
               <img src="http://jwork.me/images/portfolio/item-41.png" alt="Kingfill®-7">
@@ -496,42 +530,6 @@
               </div>
             </div>
           </div>
-        </section>
-        <section class="project-section project-link">
-          <a href="http://www.bsgangseo.go.kr/main.do" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-01.png" alt="부산 강서구청 퍼블리싱">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">부산 강서구청 퍼블리싱</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>전체 퍼블리싱</li>
-                  <li>반응형</li>
-                  <li>웹접근성 마크</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
-        </section>
-        <section class="project-section project-link">
-          <a href="https://www.inje.ac.kr/kor/" target="_blank" title="새 창 열림" class="project-item">
-            <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-02.png" alt="인제대학교 퍼블리싱">
-            </figure>
-            <div class="project-desc">
-              <h2 class="project-title">인제대학교 퍼블리싱</h2>
-              <div class="project-info">
-                <ul class="tag-list">
-                  <li>부분 디자인</li>
-                  <li>전체 퍼블리싱</li>
-                  <li>반응형</li>
-                </ul>
-                <span class="project-view">사이트보기</span>
-              </div>
-            </div>
-          </a>
         </section>
         <section class="project-section">
           <div class="project-item">
