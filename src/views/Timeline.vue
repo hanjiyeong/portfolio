@@ -145,18 +145,15 @@
               <span class="project-view">사이트보기</span>
             </a>
           </li>
-          <li class="project-link">
-            <a href="https://bigdata.bpa-net.com" target="_blank" title="새 창 열림" class="project-item">
-              <div class="project-info">
-                <strong class="project-title">부산항만공사 분석시스템</strong>
-                <ul class="tag-list">
-                  <li>전체 디자인</li>
-                  <li>UI 컨셉 및 기획</li>
-                  <li>전체 퍼블리싱</li>
-                </ul>
-              </div>
-              <span class="project-view">사이트보기</span>
-            </a>
+          <li class="project-item">
+            <div class="project-info">
+              <strong class="project-title">부산항만공사 분석시스템</strong>
+              <ul class="tag-list">
+                <li>전체 디자인</li>
+                <li>UI 컨셉 및 기획</li>
+                <li>전체 퍼블리싱</li>
+              </ul>
+            </div>
           </li>
           <li class="project-item">
             <div class="project-info">
@@ -304,6 +301,18 @@
               </div>
               <span class="project-view">사이트보기</span>
             </a>
+          </li>
+          <li>
+            <div class="project-item">
+              <div class="project-info">
+                <strong class="project-title">부산대학교 도서관 영문</strong>
+                <ul class="tag-list">
+                  <li>워드프레스</li>
+                  <li>전체 디자인</li>
+                  <li>전체 퍼블리싱</li>
+                </ul>
+              </div>
+            </div>
           </li>
           <li class="project-link">
             <a href="https://www.opeec.co.kr/" target="_blank" title="새 창 열림" class="project-item">
