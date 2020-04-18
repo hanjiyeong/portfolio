@@ -257,12 +257,12 @@
           </a>
         </section>
         <section class="project-section project-link">
-          <a href="http://core.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
+          <a href="http://corep.vaimedia.kr" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-27.png" alt="부경대학교 CORE사업단">
+              <img src="http://jwork.me/images/portfolio/item-31.png" alt="부경대학교 대학인문역량강화사업">
             </figure>
             <div class="project-desc">
-              <h2 class="project-title">부경대학교 CORE사업단</h2>
+              <h2 class="project-title">부경대학교 대학인문역량강화사업</h2>
               <div class="project-info">
                 <ul class="tag-list">
                   <li>전체 디자인</li>
@@ -485,12 +485,12 @@
           </a>
         </section>
         <section class="project-section project-link">
-          <a href="http://corep.vaimedia.kr" target="_blank" title="새 창 열림" class="project-item">
+          <a href="http://core.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-31.png" alt="부경대학교 대학인문역량강화사업">
+              <img src="http://jwork.me/images/portfolio/item-27.png" alt="부경대학교 CORE사업단">
             </figure>
             <div class="project-desc">
-              <h2 class="project-title">부경대학교 대학인문역량강화사업</h2>
+              <h2 class="project-title">부경대학교 CORE사업단</h2>
               <div class="project-info">
                 <ul class="tag-list">
                   <li>전체 디자인</li>
