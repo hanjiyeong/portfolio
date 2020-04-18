@@ -22,7 +22,7 @@
         <section class="project-section">
           <div class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-56.png" alt="부산은행 모바일뱅킹">
+              <img src="http://jwork.me/images/portfolio/item-52.png" alt="부산은행 모바일뱅킹">
             </figure>
             <div class="project-desc">
               <h2 class="project-title">부산은행 모바일뱅킹</h2>
@@ -53,7 +53,7 @@
         <section class="project-section project-link">
           <a href="http://www.kit.ac.kr/main" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-53.png" alt="경남정보대학교">
+              <img src="http://jwork.me/images/portfolio/item-55.png" alt="경남정보대학교">
             </figure>
             <div class="project-desc">
               <h2 class="project-title">경남정보대학교</h2>
@@ -69,7 +69,7 @@
         <section class="project-section project-link">
           <a href="http://iphak.kumoh.ac.kr/ipsi/" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-55.png" alt="금오공과대학 입학">
+              <img src="http://jwork.me/images/portfolio/item-54.png" alt="금오공과대학 입학">
             </figure>
             <div class="project-desc">
               <h2 class="project-title">금오공과대학 입학</h2>
@@ -102,7 +102,7 @@
         <section class="project-section project-link">
           <a href="http://renovation.pusan.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-49.png" alt="부산대학교 국립대학육성사업">
+              <img src="http://jwork.me/images/portfolio/item-51.png" alt="부산대학교 국립대학육성사업">
             </figure>
             <div class="project-desc">
               <h2 class="project-title">부산대학교 국립대학육성사업</h2>
@@ -151,7 +151,7 @@
         <section class="project-section project-link">
           <a href="http://marinemap.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-53.png" alt="부경대학교 해양인문학연구소 해양도시 인문지도">
+              <img src="http://jwork.me/images/portfolio/item-58.png" alt="부경대학교 해양인문학연구소 해양도시 인문지도">
             </figure>
             <div class="project-desc">
               <h2 class="project-title">부경대학교 해양인문학연구소 해양도시 인문지도</h2>
@@ -167,7 +167,7 @@
         <section class="project-section project-link">
           <a href="http://marinearchive.pknu.ac.kr/" target="_blank" title="새 창 열림" class="project-item">
             <figure class="project-thumb">
-              <img src="http://jwork.me/images/portfolio/item-53.png" alt="부경대학교 한국해양수산 아카이브">
+              <img src="http://jwork.me/images/portfolio/item-57.png" alt="부경대학교 한국해양수산 아카이브">
             </figure>
             <div class="project-desc">
               <h2 class="project-title">부경대학교 한국해양수산 아카이브</h2>
